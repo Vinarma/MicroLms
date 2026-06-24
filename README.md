@@ -1,6 +1,24 @@
 # MicroLms
+A Learning Management System built using React, Node.js, Express.js, and MongoDB.
 
-This is a code bundle for Micro Learning LMS Development. The original project is available at https://www.figma.com/design/ZUsO5bMq5ztVgeNeLkbeZg/Micro-Learning-LMS-Development.
+## Features
+
+- User Authentication
+- Course Management
+- Student Enrollment
+- Progress Tracking
+- Dashboard
+- Responsive Design
+
+## Tech Stack
+
+Frontend:
+- React.js
+- Tailwind CSS
+
+Backend:
+- Node.js
+- Express.js
 
 ## Running the code
 
